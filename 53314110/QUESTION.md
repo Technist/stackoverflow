@@ -29,3 +29,5 @@ Tags:
 [`qml`](https://stackoverflow.com/tags/qml/info)
 [`progress-bar`](https://stackoverflow.com/tags/progress-bar/info)
 [`qtquickcontrols`](https://stackoverflow.com/tags/qtquickcontrols/info)
+
+See also: [_Original StackOverflow Question_](https://stackoverflow.com/questions/53314110/qml-progress-bar-is-not-showing-up-on-ui/).
