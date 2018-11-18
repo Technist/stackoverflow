@@ -11,3 +11,7 @@ Tags:
 [`autocomplete`](https://stackoverflow.com/tags/autocomplete/info)
 [`syntax-highlighting`](https://stackoverflow.com/tags/syntax-highlighting/info)
 [`qtextedit`](https://stackoverflow.com/tags/qtextedit/info)
+
+----
+
+See also: [_Original StackOverflow Question_](https://stackoverflow.com/questions/53318233/how-to-display-graphics-objects-behind-or-foreground-of-text-inside-qtextedit-in/)
