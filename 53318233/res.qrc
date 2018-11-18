@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/symbols.txt</file>
+        <file>res/wordlist.txt</file>
+    </qresource>
+</RCC>
