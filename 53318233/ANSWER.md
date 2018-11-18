@@ -112,3 +112,7 @@ I've attached these on [my github stackoverflow repository](https://github.com/T
 ----
 
 If anything is amiss, please comment below.
+
+----
+
+See also: [_Original StackOverflow Answer_](https://stackoverflow.com/questions/53318233/how-to-display-graphics-objects-behind-or-foreground-of-text-inside-qtextedit-in/53351512#53351512).
