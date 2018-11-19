@@ -34,15 +34,15 @@ Also note that I integrated the [`Custom Completer Example`](http://doc.qt.io/qt
 
 Here's `backgroundhighlighter.h` (3) (~45 lines, ~60 lines with completer):
 
-[`backgroundhighlighter.h`](./53318233/backgroundhighlighter.h)
+[`backgroundhighlighter.h`](./53318233/src/backgroundhighlighter.h)
 
 And here's `backgroundhighlighter.cpp` (4) (~160 lines, ~250 lines with completer):
 
-[`backgroundhighlighter.cpp`](./53318233/backgroundhighlighter.cpp)
+[`backgroundhighlighter.cpp`](./53318233/src/backgroundhighlighter.cpp)
 
 Finally, here's `main.cpp` (5) (~10 lines, ~45 lines with completer)
 
-[`main.cpp`](./53318233/main.cpp)
+[`main.cpp`](./53318233/src/main.cpp)
 
 In `res.qrc` add a `/` prefix and add files (`res/symbols.txt`, `res/wordlist.txt`) from the `res/` subdirectory.
 
