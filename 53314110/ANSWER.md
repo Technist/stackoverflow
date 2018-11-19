@@ -11,17 +11,17 @@ There are two ways you can accomplish this. You can
 
 Directly insert your codeblock as a child of `ApplicationWindow`.
 
-[`MethodOne/Main.qml`](./53314110/MethodOne/Main.qml)
+[`MethodOne/Main.qml`](./MethodOne/Main.qml)
 
 ### Method 2
 
 Save your item into a new qml file
 
-[`MethodTwo/MyProgressBar.qml`](./53314110/MethodTwo/MyProgressBar.qml)
+[`MethodTwo/MyProgressBar.qml`](./MethodTwo/MyProgressBar.qml)
 
 Then call it from your ApplicationWindow in `Main.qml`
 
-[`MethodTwo/Main.qml`](./53314110/MethodTwo/Main.qml)
+[`MethodTwo/Main.qml`](./MethodTwo/Main.qml)
 
 make sure that your qml files are in the same directory. If not, place a `import "file/path"` at the top of the `Main.qml` file among the other import statements.
 
@@ -45,9 +45,9 @@ There is also console/debug output after each click:
     Progressbar value changed: 20
 
 
-  [1]: https://i.stack.imgur.com/b3NxG.png
-  [2]: https://i.stack.imgur.com/tvZ3e.png
-
+  [1]: ./screenshots/init.png
+  [2]: ./screenshots/threeClicks.png
+  
 ----
 
 See also: [_Original StackOverflow Answer_](https://stackoverflow.com/a/53316803/10239789).
