@@ -11,20 +11,20 @@ Window {
 		width: 175
 		anchors.centerIn: parent
 		
-		// text: "HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO"
+		//	text: "HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO HELLO"
 		text: "Cat ipsum dolor sit amet, sleep nap. You call this cat food. Push your water glass on the floor."
 		
 		font.family: "Monaco"    // Monaco ❤️
 		wrapMode: Text.WordWrap  // Make the text multi-line
 		horizontalAlignment: Text.AlignHCenter
 		
-		 lineHeightMode: Text.FixedHeight
-		 lineHeight: 6
+		//	lineHeightMode: Text.FixedHeight
+		//	lineHeight: 6
 		
-//		 lineHeight: 1.0  // single-spacing (default)
-//		lineHeight: 1.5  // 1.5 line-spacing
-//		 lineHeight: 2.0  // double-spacing
-//		 lineHeight: 3.0  // triple-spacing
+		//	lineHeight: 1.0  // single-spacing (default)
+		lineHeight: 1.5  // 1.5 line-spacing
+		//	lineHeight: 2.0  // double-spacing
+		//	lineHeight: 3.0  // triple-spacing
 		
 	}
 }
