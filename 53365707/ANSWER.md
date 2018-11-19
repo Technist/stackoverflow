@@ -93,11 +93,11 @@ you'll need to modify the pixel height. You can do this by setting [`lineHeightM
 [![Exactly 6][5]][5]
 
 
-  [1]: https://i.stack.imgur.com/BvpkV.png
-  [2]: https://i.stack.imgur.com/tWjyJ.png
-  [3]: https://i.stack.imgur.com/G7THs.png
-  [4]: https://i.stack.imgur.com/3gNME.png
-  [5]: https://i.stack.imgur.com/Sz8Me.png
+  [1]: ./screenshots/catipsum/1x%20Spacing.png
+  [2]: ./screenshots/catipsum/1.5x%20Spacing.png
+  [3]: ./screenshots/catipsum/2x%20Spacing.png
+  [4]: ./screenshots/catipsum/3x%20Spacing.png
+  [5]: ./screenshots/catipsum/Exactly%206.png
 
 ----
 
