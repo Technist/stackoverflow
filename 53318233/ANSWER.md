@@ -34,15 +34,15 @@ Also note that I integrated the [`Custom Completer Example`](http://doc.qt.io/qt
 
 Here's `backgroundhighlighter.h` (3) (~45 lines, ~60 lines with completer):
 
-[`backgroundhighlighter.h`](./53318233/src/backgroundhighlighter.h)
+[`backgroundhighlighter.h`](./src/backgroundhighlighter.h)
 
 And here's `backgroundhighlighter.cpp` (4) (~160 lines, ~250 lines with completer):
 
-[`backgroundhighlighter.cpp`](./53318233/src/backgroundhighlighter.cpp)
+[`backgroundhighlighter.cpp`](./src/backgroundhighlighter.cpp)
 
 Finally, here's `main.cpp` (5) (~10 lines, ~45 lines with completer)
 
-[`main.cpp`](./53318233/src/main.cpp)
+[`main.cpp`](./src/main.cpp)
 
 In `res.qrc` add a `/` prefix and add files (`res/symbols.txt`, `res/wordlist.txt`) from the `res/` subdirectory.
 
@@ -107,7 +107,7 @@ The words are loaded from a model in `main.cpp`. Once the user starts typing, wi
 Go to lines 27 to 29 of `backgroundhighlighter.cpp`. There, you can see that I centralised the formatting. `mainFmt` refers to the formatting block directly under the cursor. `subsidiaryFmt` refers to the formatting blocks on congruent symbols. `defaultFmt` refers to the default format of the **entire** document which will be used in resetting the format.
 
 ## Where can I get `symbols.txt` and `wordlist.txt`?
-I've attached these on [my github stackoverflow repository](https://github.com/Technist/stackoverflow/tree/master/53318233/res). You can download and copy them from there.
+I've attached these on [my github stackoverflow repository](https://github.com/Technist/stackoverflow/tree/master/53318233/src/res). You can download and copy them from there.
 
 ----
 
