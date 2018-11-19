@@ -24,6 +24,8 @@ I can confirm that the progress bar value and visibility are changed by the meth
 
 However, the problem is that the progress bar does NOT show up on the UI! How can I actually show the progress bar on the UI? Can anybody give me a hint?
 
+----
+
 Tags:
 [`qt`](https://stackoverflow.com/tags/qt/info)
 [`qml`](https://stackoverflow.com/tags/qml/info)
